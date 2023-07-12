@@ -6,6 +6,13 @@ $aMenuLinks = Array(
 		Array(), 
 		Array(), 
 		"" 
+	),
+	Array(
+		"Связаться", 
+		"/contact.php",
+		Array(), 
+		Array(), 
+		"" 
 	)
 );
 ?>

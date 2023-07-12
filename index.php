@@ -45,7 +45,7 @@ $APPLICATION->SetTitle("Главная");
 		"PARENT_SECTION" => "",
 		"PARENT_SECTION_CODE" => "",
 		"PREVIEW_TRUNCATE_LEN" => "",
-		"PROPERTY_CODE" => array("CONTENT","TITLE","","",""),
+		"PROPERTY_CODE" => array("CONTENT","TITLE",""),
 		"SET_BROWSER_TITLE" => "N",
 		"SET_LAST_MODIFIED" => "N",
 		"SET_META_DESCRIPTION" => "N",
@@ -59,7 +59,9 @@ $APPLICATION->SetTitle("Главная");
 		"SORT_ORDER2" => "",
 		"STRICT_SECTION_CHECK" => "N"
 	)
-);?>
+);?> <br>
+	</div>
+</div>
  <br><?
 require($_SERVER['DOCUMENT_ROOT'] . '/bitrix/footer.php');
 ?>
