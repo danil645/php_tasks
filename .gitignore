@@ -2,4 +2,12 @@
 /auth/
 /desktop_app
 /images
-
+.access.php
+.htaccess
+.section.php
+.top.menu.php
+404.php
+500.html
+favicon.ico
+storage.php
+urlrewrite.php
